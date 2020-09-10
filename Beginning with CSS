@@ -1,11 +1,11 @@
 <HTML>
-<HEAD><Style>
+<HEAD><STYLE>
 p{
 color:blue;
 }
-</style>
-</head>
-<Body>
+</STYLE>
+</HEAD>
+<BODY>
 <p> Hello World!</p>
-</body>
-</html>
+</BODY>
+</HTML>
