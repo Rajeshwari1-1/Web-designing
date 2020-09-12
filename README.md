@@ -1,9 +1,7 @@
 <HTML>
-<HEAD><STYLE>
-p{
-color:blue;
-}
-</STYLE>
+<HEAD>
+<Title>
+  </title>
 </HEAD>
 <BODY>
 <p> Hello World!</p>
